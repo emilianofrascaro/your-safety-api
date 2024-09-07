@@ -1,0 +1,1 @@
+server 'your-safety', user: 'deploy', roles: %w{app db web}
